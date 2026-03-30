@@ -37,9 +37,11 @@ misemode_chefkan/
 
 ## Quick Start
 
-1. Clone this repo
-2. Open the folder in [Claude Code](https://claude.ai/code) or any AI IDE that reads `CLAUDE.md`
-3. Send an invoice photo or Excel — your ingredient database builds itself
+```bash
+git clone https://github.com/chefkannofriend-source/misemode_chefkan && cd misemode_chefkan
+```
+
+That's it. No dependencies to install. Open the folder in [Claude Code](https://claude.ai/code) or any AI IDE that reads `CLAUDE.md`, then send an invoice photo or Excel — your ingredient database builds itself.
 
 To try with sample data:
 ```bash
