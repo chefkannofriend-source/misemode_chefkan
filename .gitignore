@@ -1,0 +1,6 @@
+.DS_Store
+*.bak
+data/reports/
+outputs/
+__pycache__/
+*.pyc

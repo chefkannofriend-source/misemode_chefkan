@@ -1,0 +1,4 @@
+[
+  {"id": "dish_001", "name": "Wagyu Burger", "category": "Main", "selling_price": 45.0, "food_cost": 0, "profit": 0, "margin_pct": 0, "fc_pct": 0, "created": "2026-03-28"},
+  {"id": "dish_002", "name": "Grilled Chicken", "category": "Main", "selling_price": 28.0, "food_cost": 0, "profit": 0, "margin_pct": 0, "fc_pct": 0, "created": "2026-03-28"}
+]

@@ -1,0 +1,9 @@
+[
+  {"menu_item_id": "dish_001", "ingredient_id": "ing_001", "qty": 0.200, "unit": "kg"},
+  {"menu_item_id": "dish_001", "ingredient_id": "ing_002", "qty": 0.100, "unit": "kg"},
+  {"menu_item_id": "dish_001", "ingredient_id": "ing_003", "qty": 0.050, "unit": "kg"},
+  {"menu_item_id": "dish_001", "ingredient_id": "ing_004", "qty": 0.080, "unit": "kg"},
+  {"menu_item_id": "dish_002", "ingredient_id": "ing_005", "qty": 0.250, "unit": "kg"},
+  {"menu_item_id": "dish_002", "ingredient_id": "ing_002", "qty": 0.080, "unit": "kg"},
+  {"menu_item_id": "dish_002", "ingredient_id": "ing_006", "qty": 0.020, "unit": "L"}
+]

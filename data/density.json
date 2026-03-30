@@ -1,0 +1,37 @@
+[
+  {
+    "keys": ["oil", "fat", "butter", "margarine", "olive", "canola", "shortening", "油", "黄油", "人造黄油"],
+    "sg": 0.92,
+    "note": "Fats & oils"
+  },
+  {
+    "keys": ["flour", "starch", "powder", "baking", "cocoa", "面粉", "粉", "淀粉"],
+    "sg": 0.60,
+    "note": "Flours & powders"
+  },
+  {
+    "keys": ["sugar", "salt", "granulated", "糖", "盐"],
+    "sg": 0.85,
+    "note": "Granulated dry goods"
+  },
+  {
+    "keys": ["honey", "syrup", "molasses", "maple", "蜂蜜", "糖浆"],
+    "sg": 1.40,
+    "note": "Viscous syrups"
+  },
+  {
+    "keys": ["milk", "cream", "buttermilk", "half", "牛奶", "奶油"],
+    "sg": 1.03,
+    "note": "Dairy liquids"
+  },
+  {
+    "keys": ["wine", "vinegar", "juice", "water", "soy", "sauce", "stock", "broth", "cider", "酒", "醋", "汁", "水", "酱", "酱油"],
+    "sg": 1.0,
+    "note": "Water-based liquids"
+  },
+  {
+    "keys": ["rice", "grain", "oat", "quinoa", "米", "谷"],
+    "sg": 0.80,
+    "note": "Grains & cereals"
+  }
+]
